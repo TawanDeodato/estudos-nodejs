@@ -1,4 +1,4 @@
-POST http://localhost:3333/videos
+POST https://estudos-nodejs.onrender.com/videos
 Content-type: application/json
 
 {
@@ -9,11 +9,11 @@ Content-type: application/json
 
 ###
 
-GET http://localhost:3333/videos
+GET https://estudos-nodejs.onrender.com/videos
 
 ###
 
-PUT http://localhost:3333/videos/c3dfb859-2d07-4bda-93f2-953af5bf0194
+PUT https://estudos-nodejs.onrender.com/videos/949034e0-1c75-4b48-b9a4-c13d9c5ea47a
 Content-type: application/json
 
 {
@@ -24,4 +24,4 @@ Content-type: application/json
 
 ###
 
-DELETE http://localhost:3333/videos/c3dfb859-2d07-4bda-93f2-953af5bf0194
+DELETE https://estudos-nodejs.onrender.com/videos/949034e0-1c75-4b48-b9a4-c13d9c5ea47a
